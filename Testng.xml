@@ -1,0 +1,8 @@
+<suite name="roicianscontact" >
+  <test name="TestNG">
+    <classes>
+      <class name="testLayer.TestContactUs"/>
+        
+    </classes>
+  </test> 
+</suite> 
